@@ -6,6 +6,7 @@ import android.support.v7.widget.Toolbar;
 import android.webkit.WebView;
 
 import java.util.Locale;
+//test
 
 public class HelpActivity extends Activity {
 
