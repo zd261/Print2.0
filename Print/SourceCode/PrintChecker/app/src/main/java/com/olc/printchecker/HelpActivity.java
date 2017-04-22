@@ -6,7 +6,7 @@ import android.support.v7.widget.Toolbar;
 import android.webkit.WebView;
 
 import java.util.Locale;
-
+//AddTest
 public class HelpActivity extends Activity {
 
     @Override
