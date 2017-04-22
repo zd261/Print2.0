@@ -22,7 +22,7 @@ import com.google.zxing.WriterException;
 import com.google.zxing.common.BitMatrix;
 
 import static android.content.ContentValues.TAG;
-
+//ggggggg
 public final class BarcodeUtil {
 	private static final int BLACK = 0xff000000;
 	private static int PADDING_SIZE_MIN = 0;
